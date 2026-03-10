@@ -1,0 +1,57 @@
+{
+  "business": {
+    "name": "Mar Dénia Inmobiliaria",
+    "tagline": "Tu Hogar Ideal en Dénia, con Expertos Locales.",
+    "description": "En Mar Dénia Inmobiliaria, somos tu aliado estratégico para encontrar o vender propiedades en la hermosa costa de Dénia. Ofrecemos un servicio personalizado y experto, garantizando transacciones fluidas y exitosas para cada cliente. Tu sueño de vivir en el Mediterráneo empieza aquí.",
+    "phone": "+34 649 15 67 97",
+    "address": "Pg. del Saladar, 58, 1 d, 03700 Denia, Alicante, España",
+    "email": "info@mardeniainmobiliaria.es",
+    "rating": 4.6,
+    "reviewCount": 52,
+    "hours": ["Monday: 9:00 AM – 7:00 PM","Tuesday: 9:00 AM – 7:00 PM","Wednesday: 9:00 AM – 7:00 PM","Thursday: 9:00 AM – 7:00 PM","Friday: 9:00 AM – 7:00 PM","Saturday: 10:00 AM – 2:00 PM","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#004d7a",
+    "secondary": "#002d4a",
+    "accent": "#ff7f50",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Dénia: Tu Próximo Hogar en el Mediterráneo te Espera",
+    "subheadline": "Descubre propiedades exclusivas en Dénia. Expertos locales te guían en la venta, compra o alquiler, garantizando tu éxito y confianza.",
+    "cta1": { "text": "Encuentra Tu Hogar", "href": "#contact" },
+    "cta2": { "text": "Vende Tu Propiedad", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJlWsodFMbnhIRDsDMnz26vGk/photos/ATCDNfUwkWKMtUw6j5eIM58IEASA1hNHcAFGxx7ptzL0fGSqPgBy5mRPv19_qbXuNK0D4A_wi97obBSmF8IqZhpuu4OoX5bw2wCiKV-D5IEN2hgY4WSZyTd0Dx7_UX7HzwUvlbvOtrlJ1jabrxCSNhsmd2Of_aEMppDBA2NJdy_9ZBVSYYWX6glxkQPwWaKqOYXJK9EzDGvdL2b5Bnov2jSWhY9lw2WWzedg4JnPXwsmX0L_r8euJ7mxlA8-PHZwgjE7bQHlCdt52OFUHLemZUxegfTDU1HuQ7v5CebgeGsGRV47sA/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "🏠", "title": "Compra y Venta de Inmuebles", "description": "Te acompañamos en todo el proceso de compra o venta, desde la búsqueda hasta la firma. Maximiza el valor de tu propiedad o encuentra la casa de tus sueños." },
+    { "icon": "🔑", "title": "Gestión de Alquileres", "description": "Ofrecemos una gestión integral para alquileres de larga o corta duración. Garantizamos inquilinos fiables y la máxima rentabilidad para tu inversión." },
+    { "icon": "💡", "title": "Asesoramiento Legal y Financiero", "description": "Nuestros expertos te brindan soporte legal y financiero para una transacción segura y sin sorpresas. Resolvemos todas tus dudas con transparencia." },
+    { "icon": "✨", "title": "Valoraciones Profesionales", "description": "Obtén una valoración precisa y ajustada al mercado actual de Dénia. Conoce el valor real de tu propiedad para tomar las mejores decisiones." }
+  ],
+  "about": {
+    "title": "Más que una Inmobiliaria: Tu Aliado en Dénia",
+    "text": "Mar Dénia Inmobiliaria nace de una profunda pasión por Dénia y su vibrante mercado inmobiliario. Con años de experiencia y un conocimiento inigualable de la región, nos hemos consolidado como referentes en la compra, venta y alquiler de propiedades. Nuestro equipo está comprometido con un servicio de excelencia, adaptándose a las necesidades específicas de cada cliente.\n\nCreemos firmemente que cada propiedad tiene una historia y cada cliente un sueño. Por ello, nuestra misión va más allá de cerrar transacciones: construimos relaciones basadas en la confianza, la transparencia y la efectividad. Entendemos que adquirir o vender una propiedad es una decisión importante, y estamos aquí para hacer ese camino fácil, seguro y gratificante.\n\nDesde el primer contacto hasta la entrega de llaves, te garantizamos un acompañamiento integral y personalizado. Elegir Mar Dénia Inmobiliaria significa optar por la tranquilidad de saber que tus intereses están en las mejores manos, siempre buscando superar tus expectativas.",
+    "imageUrl": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJlWsodFMbnhIRDsDMnz26vGk/photos/ATCDNfUwkWKMtUw6j5eIM58IEASA1hNHcAFGxx7ptzL0fGSqPgBy5mRPv19_qbXuNK0D4A_wi97obBSmF8IqZhpuu4OoX5bw2wCiKV-D5IEN2hgY4WSZyTd0Dx7_UXHzwUvlbvOtrlJ1jabrxCSNhsmd2Of_aEMppDBA2NJdy_9ZBVSYYWX6glxkQPwWaKqOYXJK9EzDGvdL2b5Bnov2jSWhY9lw2WWzedg4JnPXwsmX0L_r8euJ7mxlA8-PHZwgjE7bQHlCdt52OFUHLemZUxegfTDU1HuQ7v5CebgeGsGRV47sA/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Oficina de Mar Dénia Inmobiliaria, expertos inmobiliarios en Dénia" },
+    { "url": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=1200&q=80", "alt": "Asesoramiento profesional para la compra de tu hogar en Dénia" },
+    { "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&q=80", "alt": "Visualizando propiedades en la costa de Dénia con Mar Dénia Inmobiliaria" }
+  ],
+  "testimonials": [
+    { "name": "Sofía Martínez", "stars": 5, "text": "Increíble servicio. Encontraron el chalet de mis sueños en Dénia en tiempo récord. Su profesionalidad y cercanía son inigualables." },
+    { "name": "Javier Ruíz", "stars": 5, "text": "Vender mi piso con ellos fue una experiencia muy sencilla y rápida. Recibí el mejor asesoramiento y un trato excepcional." },
+    { "name": "Elena García", "stars": 4, "text": "Muy contenta con la gestión de mi alquiler. Siempre atentos y resolviendo cualquier duda con gran eficiencia. Los recomiendo sin dudar." }
+  ],
+  "contact": {
+    "title": "¿Listo para dar el siguiente paso?",
+    "subtitle": "Contacta con nosotros hoy mismo y deja que tus sueños inmobiliarios en Dénia se hagan realidad.",
+    "whatsappNumber": "+34 649 15 67 97",
+    "showMap": true,
+    "mapQuery": "Mar Dénia Inmobiliaria Pg. del Saladar, 58, 1 d, 03700 Denia, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Mar Dénia Inmobiliaria"
+  }
+}
