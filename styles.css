@@ -1,0 +1,7 @@
+:root { --color-primary: #2563eb; --color-bg: #ffffff; --color-bg-card: #f8fafc; --color-text: #1e293b; --color-text-muted: #64748b; --color-border: #e2e8f0; }
+body { font-family: 'Inter', sans-serif; margin: 0; color: var(--color-text); background: var(--color-bg); }
+.container { max-width: 1200px; margin: 0 auto; padding: 0 1.5rem; }
+.btn-glow { background: var(--color-primary); color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; display: inline-block; font-weight: 600; }
+.reveal { opacity: 0; transform: translateY(20px); transition: all 0.6s ease-out; }
+.reveal.visible { opacity: 1; transform: translateY(0); }
+img { max-width: 100%; height: auto; }
